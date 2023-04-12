@@ -1,0 +1,36 @@
+#count{
+    text-align: center;
+    font-size: 10rem;
+}
+
+#button-input{
+    text-align: center;
+    margin:  10px auto;
+    width: 500px;
+    
+    background-image: linear-gradient(to right,#19d8bb,green);
+    box-shadow:rgb(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+#button-input button{
+    background-color: #fc5c7d;
+    color:white;
+    border:none;
+    padding:5px 10px;
+    border-radius:5px;
+}
+#button-input button:hover{
+    cursor: pointer;
+    background-color: green;
+}
+#increment-input{
+    padding: 10px 5px;
+    width:200px;
+}
+#Incrementrandom{
+    background-color: #fc5c7d;
+    color:white;
+    border:none;
+    padding:5px 10px;
+    border-radius:5px;
+}
